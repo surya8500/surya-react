@@ -1,10 +1,9 @@
-import Input from "./Input";
-
+import Abc from "./fake";
 function App() {
   return (
-    <div className="App">
+    <div>
 
-   <Input></Input>
+   <Abc></Abc>
        </div>
   );
 }
