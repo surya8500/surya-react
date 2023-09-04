@@ -1,10 +1,10 @@
-import Tour from "./Tour";
+import Input from "./Input";
 
 function App() {
   return (
     <div className="App">
 
-      <Tour/>
+   <Input></Input>
        </div>
   );
 }
